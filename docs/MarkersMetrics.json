@@ -1,0 +1,11 @@
+{
+	"AppFromScratch": {
+		"type": "total",
+		"tags": ["Paint"],
+		"unit": "ms",
+		"source": "MarkersMetrics",
+		"summary": "The time spent to create AFB",
+		"browsers": ["chrome"],
+		"importance": 100
+    }
+}
